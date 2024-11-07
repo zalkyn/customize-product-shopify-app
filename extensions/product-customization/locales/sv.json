@@ -1,0 +1,43 @@
+{
+  "articmaze": {
+    "header": {
+      "heading": "{{heading}}",
+      "sub_heading": "{{sub_heading}}"
+    },
+    "product_input": {
+      "label": "{{label}}",
+      "placeholder": "{{placeholder}}",
+      "info": "{{info}}"
+    },
+    "length_input": {
+      "label": "{{label}}",
+      "placeholder": "{{placeholder}}",
+      "info": "{{info}}"
+    },
+    "width_input": {
+      "label": "{{label}}",
+      "placeholder": "{{placeholder}}",
+      "info": "{{info}}"
+    },
+    "quantity": {
+      "label": "{{label}}",
+    },
+    "price": {
+      "label": "{{label}}",
+      "info": "{{info}}"
+    },
+    "add_to_cart": {
+      "label": "{{label}}"
+    },
+    "footer": {
+      "heading": "{{heading}}",
+      "sub_heading": "{{sub_heading}}",
+      "text": "{{text}}"
+    },
+    "error": {
+      "required": "{{field}} is required",
+      "invalid": "{{field}} is invalid",
+      "message": "{{message}}"
+    }
+  }
+}
